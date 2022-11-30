@@ -1,0 +1,5 @@
+div{
+    background-color: gray; border: 2px solid; width: 400px;
+}
+div > img{width: 100px; height: 100px;}
+div>b{color: rgb(rgb(0, 0, 0), rgb(0, 0, 0), rgb(0, 0, 0));}
